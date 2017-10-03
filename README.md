@@ -10,3 +10,8 @@ Baymax is a Chrome (and Firefox) plugin which monitor/checks periodically your w
 
 - Baymax for Chrome: **WIP**
 - Baymax for Firefox: **Future release**
+
+
+### Baymax icon:
+
+[Creative Commons License](https://creativecommons.org/licenses/by/3.0) by [The Noun Project](https://thenounproject.com)

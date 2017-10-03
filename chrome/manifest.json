@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Baymax Website Healtcare",
+  "description": "I am Baymax, your website healthcare companion! Chrome plugin which monitor/checks periodically your website health.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "img/baymax-small.png",
+    "default_popup": "popup.html",
+    "default_title": "Hello, I am Baymax."
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
